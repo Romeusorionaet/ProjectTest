@@ -1,4 +1,4 @@
-# Only a Test Project
+# Only a Test Project.
 
 > Testing basic of html and css
 
